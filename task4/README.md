@@ -20,4 +20,4 @@ HTML + CSS + Vanilla JS.
 Открыть `index.html` в браузере.
 
 ## Репозиторий
-Ссылка на GitHub-репозиторий: https://github.com/USERNAME/case-task-4-calculator (заглушка, заполнить позже)
+Ссылка на GitHub-репозиторий: https://github.com/krosh2807/synergy_practika
