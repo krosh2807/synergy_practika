@@ -44,4 +44,4 @@ python manage.py runserver
 Приложение будет доступно по адресу http://127.0.0.1:8000/
 
 ## Репозиторий
-Ссылка на GitHub-репозиторий: https://github.com/USERNAME/case-task-3-django-greeting (заглушка, заполнить позже)
+Ссылка на GitHub-репозиторий: https://github.com/krosh2807/synergy_practika
