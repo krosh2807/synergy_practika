@@ -30,4 +30,4 @@ python3 birthday.py
 ```
 
 ## Репозиторий
-Ссылка на GitHub-репозиторий: https://github.com/USERNAME/case-task-1-birthday (заглушка, заполнить позже)
+Ссылка на GitHub-репозиторий: https://github.com/krosh2807/synergy_practika 
